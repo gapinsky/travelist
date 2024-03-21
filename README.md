@@ -1,3 +1,6 @@
+![image](https://github.com/gapinsky/travelist/assets/139881075/b2fed85d-41cb-4443-9da4-97200a6ec89d)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
